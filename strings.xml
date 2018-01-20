@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IoT</string>
+    <string name="IP">Enter IP Address</string>
+    <string name="IPhint">0.0.0.0</string>
+    <string name="Update">Update IP</string>
+    <string name="OnBut">Turn On</string>
+    <string name="Offbut">Turn Off</string>
+</resources>
