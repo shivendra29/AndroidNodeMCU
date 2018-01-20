@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "Martin Router King";
-const char* password = "shivendra2018";
+const char* ssid = "/YourSSID\";
+const char* password = "/YourPassword\";
  
 int ledPin = LED_BUILTIN; 
 WiFiServer server(80);
